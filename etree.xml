@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<student>
+    <stu title="record1">
+        <name>"visha"</name>
+        <id>123</id>
+        <dept>"CIVIL"</dept>
+    </stu>
+    <stu title="record2">
+        <name>"Rithvin"</name>
+        <id>456</id>
+        <dept>"IT"</dept>
+    </stu>
+</student>
